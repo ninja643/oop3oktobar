@@ -1,4 +1,4 @@
-package rs.ac.ni.pmf.oop3;
+package rs.ac.ni.pmf.oop3.zad1;
 
 public interface Encoder
 {
